@@ -1,0 +1,82 @@
+header{ 
+    background-color: black; 
+    width: 815px;
+    height: 50px;
+}
+h1{
+    color: white;
+}
+table{color:black;
+}
+#cel1-1{ background-color: gray;
+    width: 200px;
+    height: 50px;
+}
+#cel1-2{ background-color: white;
+    width: 200px;
+    height: 50px;
+}
+#cel1-3{ background-color: red;
+    width: 200px;
+    height: 50px;
+}
+#cel1-4{ background-color: bisque;
+    width: 200px;
+    height: 50px;
+}
+#cel2-1{ background-color:green;
+    width: 200px;
+    height: 50px;
+}
+#cel2-2{ background-color: burlywood;
+    width: 200px;
+    height: 50px;
+}
+#cel2-3{ background-color: gold;
+    width: 200px;
+    height: 50px;
+}
+#cel2-4{ background-color: lawngreen;
+    width: 200px;
+    height: 50px;
+}
+#cel3-1{ background-color: peru;
+    width: 200px;
+    height: 50px;
+}
+#cel3-2{ background-color: firebrick;
+    width: 200px;
+    height: 50px;
+}
+#cel3-3{ background-color: goldenrod;
+    width: 200px;
+    height: 50px;
+}
+#cel3-4{ background-color: violet;
+    width: 200px;
+    height: 50px;
+}
+#cel4-1{ background-color: khaki;
+    width: 200px;
+    height: 50px;
+}
+#cel4-2{ background-color: lightblue;
+    width: 200px;
+    height: 50px;
+}
+#cel4-3{ background-color: darkorange;
+    width: 200px;
+    height: 50px;
+}
+#cel4-4{ background-color: whitesmoke;
+    width: 200px;
+    height: 50px;
+}
+h3{
+    color: blueviolet;
+}
+footer{
+    background-color: aquamarine;
+    width: 815px;
+    height: 50px;
+}
